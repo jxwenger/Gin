@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hand()
+comment1.params=
+comment1.target=java.util.ArrayList\ findRun()
+comment2.params=
+comment2.target=java.util.ArrayList\ find3()
+comment3.params=
+comment3.target=void\ sort()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=boolean\ checkWin()
+numComments=6

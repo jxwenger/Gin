@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=h
+comment0.target=Ai(Hand)
+comment1.params=
+comment1.target=void\ findready()
+comment2.params=
+comment2.target=Card\ findDiscard()
+comment3.params=top
+comment3.target=boolean\ takeDiscard(Card)
+numComments=4
