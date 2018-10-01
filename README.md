@@ -1,1 +1,1 @@
-# A text based version of the card game gin. (in progress)
+# A text based version of the card game gin.
